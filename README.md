@@ -1,4 +1,4 @@
-# MP3_player
+# MP3player
 A GUI Audioplayer using Tkinter.
 
 # Table of Contents:
