@@ -1,5 +1,5 @@
-# MP3player
-A GUI Audioplayer using Tkinter.
+# Description
+  A GUI Audioplayer using Tkinter.
 
 # Table of Contents:
  * Installation Requirements
