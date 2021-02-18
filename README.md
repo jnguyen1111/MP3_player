@@ -4,7 +4,6 @@
  - [Installation](#Installation)
  - [Buttons](#Buttons)
  - [Keys](#Keys)
- - [Contributing](#Contributing)
  - [License](#Liscense)
  
 # Requirements
