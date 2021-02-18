@@ -3,7 +3,8 @@
  - [Description](#Description)
  - [Installation](#Installation)
  - [Buttons](#Buttons)
- - [Keys](#Keys)
+ - [Shortcut Keys](#Shortcut-Keys)
+ - [Extra Features](#Extra-Features)
  - [License](#Liscense)
  
 # Requirements
@@ -28,7 +29,7 @@ In order for the player to work , install the things below
   * shuffle: shuffles songs in the playlist
   * loop song: loops current song that is playing
   
-# Keys
+# Shortcut Keys
   In addition to the buttons implemented, shortcut keys are binded to allow easier use
   * P (key): Pause/Play song
   * W (key): Loads playlist
@@ -39,7 +40,9 @@ In order for the player to work , install the things below
   * O (key): Next track
   * , (key): Decrease Volume by 5
   * . (key): Increase Volume by 5
-  
-
+ 
+# Extra Features
+  The Gui player also includes a scale to adjust volume and song time
+ 
 # License
   Released under the GNU GPL v3.
