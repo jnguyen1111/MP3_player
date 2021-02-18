@@ -1,23 +1,20 @@
 # Table of Contents:
- - [Requirements](#Requirements)
- - [Description](#Description)
  - [Installation](#Installation)
+ - [Description](#Description)
  - [Buttons](#Buttons)
  - [Shortcut Keys](#Shortcut-Keys)
  - [Extra Features](#Extra-Features)
  - [License](#Liscense)
  
-# Requirements
-In order for the player to work , install the things below
+# Installation
+In order for the player to work , install the things below. Once both are installed, download the code from the file Mp3Player.
    * pyglet version: 1.5.9 or greater
-   * FFmpeg link: https://www.ffmpeg.org/
+   * FFmpeg  (link): https://www.ffmpeg.org/
+
 
 # Description
-  A GUI Audioplayer using Tkinter.
+  This Mp3 player is a Gui application that uses Tkinter and Pyglet which plays mp3 files.
  
-# Installation
-  Install the Mp3 player from the folder named: Source code
-
 # Buttons
   The Gui interface features multiple buttons
   * pause: pauses the audio player
