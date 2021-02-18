@@ -1,13 +1,13 @@
 # Table of Contents:
- - [Installation Requirements](#Installion Requirements)
+ - [Requirements](#Requirements)
  - [Description](#Description)
- - [Getting Started](#Getting Started)
+ - [Installation](#Installation)
  - [Buttons](#Buttons)
- - [Shortcut keys](#Shortcut Keys)
+ - [Keys](#Keys)
  - [Contributing](#Contributing)
  - [License](#Liscense)
  
-# Installation Requirements
+# Requirements
 In order for the player to work , install the things below
    * pyglet version: 1.5.9 or greater
    * FFmpeg link: https://www.ffmpeg.org/
@@ -15,7 +15,7 @@ In order for the player to work , install the things below
 # Description
   A GUI Audioplayer using Tkinter.
  
-# Getting Started
+# Installation
   Install the Mp3 player from the folder named: Source code
 
 # Buttons
@@ -29,7 +29,7 @@ In order for the player to work , install the things below
   * shuffle: shuffles songs in the playlist
   * loop song: loops current song that is playing
   
-# Shortcut Keys
+# Keys
   In addition to the buttons implemented, shortcut keys are binded to allow easier use
   * P (key): Pause/Play song
   * W (key): Loads playlist
