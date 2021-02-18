@@ -3,7 +3,7 @@
  - [Description](#Description)
  - [Getting Started](#Getting Started)
  - [Buttons](#Buttons)
- - [Shortcut keys](#Shortcut keys)
+ - [Shortcut keys](#Shortcut Keys)
  - [Contributing](#Contributing)
  - [License](#Liscense)
  
