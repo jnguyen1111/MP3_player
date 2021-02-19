@@ -8,7 +8,7 @@
 
  
 # Installation
-In order for the player to work , install the things below. Once both are installed, download the code from the file Mp3Player.
+In order for the player to work , install the things below. Once both are installed, download the code from the folder Source code.
    * pyglet version: 1.5.9 or greater
    * FFmpeg  (link): https://www.ffmpeg.org/
 
