@@ -5,6 +5,7 @@
  - [Shortcut Keys](#Shortcut-Keys)
  - [Extra Features](#Extra-Features)
  - [License](#Liscense)
+
  
 # Installation
 In order for the player to work , install the things below. Once both are installed, download the code from the file Mp3Player.
@@ -13,7 +14,7 @@ In order for the player to work , install the things below. Once both are instal
 
 
 # Description
-  This Mp3 player is a Gui application that uses Tkinter and Pyglet which plays mp3 files.
+  This Mp3 player is a Gui Python application which uses Tkinter and Pyglet to play mp3 files.
  
 # Buttons
   The Gui interface features multiple buttons
