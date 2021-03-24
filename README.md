@@ -6,6 +6,8 @@
  - [Extra Features](#Extra-Features)
  - [License](#Liscense)
 
+# Changes
+Recently added a theme mode which allows switching between two themes : dark , light
  
 # Installation
 In order for the player to work , install the things below. Once both are installed, download the code from the folder Source code.
@@ -38,6 +40,7 @@ In order for the player to work , install the things below. Once both are instal
   * O (key): Next track
   * , (key): Decrease Volume by 5
   * . (key): Increase Volume by 5
+  * ctrl + z (two keys) : changes theme color , options are : dark , white
  
 # Extra Features
   The Gui player also includes a scale to adjust volume and song time
